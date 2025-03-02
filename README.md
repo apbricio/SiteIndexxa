@@ -1,3 +1,4 @@
+![Imagem Treinamento Indexxa Qualidade](https://github.com/user-attachments/assets/e99b356a-4691-4619-968e-4c9634eb423d)
 # SiteIndexxa
 # Durable Website Builder
 
